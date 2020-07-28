@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there :D
 
-<!--
-**bruno-albino/bruno-albino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bruno Albino from Brazil (🇧🇷). I've been working as Developer since 2019 and currently I'm FullStack Developer at [Workgroup](http://www.workmotor.com.br).
+I start programming back in 2014 and since then I've learn so much, making little open source projects (look on my repositories!)
 
-Here are some ideas to get you started:
+In my free time, I do many things, some of them are:
+- Play video games; 
+- Watch movies (🎞️) and series (📺);
+- Read books (📚); 
+- Listen to music (🎵);
+- Play Guitar (:guitar:)
+- Play musics as DJ ();
+- And eventually I drink beers (🍺).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Facebook Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=facebook&logoColor=blue&link=https://www.facebook.com/bruno.silva.16503323/)](https://www.facebook.com/bruno.silva.16503323/)
+[![Instagram Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.instagram.com/b_albinoo/)](https://www.instagram.com/b_albinoo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-albino/)](https://www.linkedin.com/in/bruno-albino/)
