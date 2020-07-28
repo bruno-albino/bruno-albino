@@ -13,6 +13,9 @@ In my free time, I do many things, some of them are:
 - And eventually I drink beers (🍺).
 
 - 📫 How to reach me: ...
+
 [![Facebook Badge](https://img.shields.io/twitter/url?label=Bruno%20Albino&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fbruno.silva.16503323%2F)](https://www.facebook.com/bruno.silva.16503323/)
-[![Instagram Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.instagram.com/b_albinoo/)](https://www.instagram.com/b_albinoo/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-albino/)](https://www.linkedin.com/in/bruno-albino/)
+
+[![LinkedIn Badge](https://img.shields.io/twitter/url?label=Bruno%20Albino&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbruno-albino%2F)](https://www.linkedin.com/in/bruno-albino/)
+
+[![Instagram Badge](https://img.shields.io/twitter/url?label=Bruno%20Albino&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fb_albinoo%2F)](https://www.instagram.com/b_albinoo/)
