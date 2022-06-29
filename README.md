@@ -1,7 +1,7 @@
 ### Hi there :D
 
-My name is Bruno Albino from Brazil (🇧🇷). I've been working as Developer since 2019 and currently I'm Software Engineer at [Paxico Technologies](https://paxicotech.com/).
-I start programming back in 2014 and since then I've learn so much, making little open source projects (look on my repositories!)
+My name is Bruno Albino from Brazil (🇧🇷). I've been working as Developer since 2019 and currently I'm Software Engineer at [Maestro](https://maestro.tv/).
+I start developing back in 2014 and since then I've learn a lot making little open source projects (look on my repositories!)
 
 In my free time, I do many things, some of them are:
 - Play video games; 
